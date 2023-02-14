@@ -1,6 +1,10 @@
 let name: string = "aNwaR";
 
-console.log(`Lowercase: ${name.toLowerCase()}`)
+let lowerCaseName = name.toLowerCase()
+console.log(`Lowercase: ${lowerCaseName}`)
+
 console.log(`Uppercase: ${name.toUpperCase()}`)
+
+
 
 export{}
