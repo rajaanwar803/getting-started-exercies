@@ -1,9 +1,9 @@
 let name: string = "aNwaR";
 
-let lowerCaseName = name.toLowerCase()
-console.log(`Lowercase: ${lowerCaseName}`)
+let lowerCaseName = name.toLowerCase();
+console.log(`Lowercase: ${lowerCaseName}`);
 
-console.log(`Uppercase: ${name.toUpperCase()}`)
+console.log(`Uppercase: ${name.toUpperCase()}`);
 
 
 
