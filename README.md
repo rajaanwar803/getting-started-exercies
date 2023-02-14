@@ -16,8 +16,7 @@ would you like to learn some Python today?”*
 
 05. **Famous Quote 2:** *Repeat Exercise 4,* but this time store the famous person’s name in a variable called ***famous_person***. Then compose your message and store it in a new variable called message. Print your message.
 
-06. Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each
-character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
+06. **Stripping Names:** Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
 
 07. Number Eight: Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results. 
 
