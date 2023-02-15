@@ -44,3 +44,4 @@ console.log(name1 != name2);
 console.log("Is name1.length == name2.length? I predict False.");
 console.log(name1.length == name2.length);
 
+export {}
