@@ -1,7 +1,7 @@
 "use strict";
-function makeShirt(size = "large", message = "I love TypeScript") {
+function make_shirt(size = "large", message = "I love TypeScript") {
     console.log(`Making a ${size} shirt with the message: ${message}`);
 }
-makeShirt();
-makeShirt("medium");
-makeShirt("small", "TypeScript is awesome!");
+make_shirt();
+make_shirt("medium");
+make_shirt("small", "TypeScript is awesome!");
